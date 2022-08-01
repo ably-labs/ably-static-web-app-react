@@ -220,6 +220,4 @@ You can either enter these in the Azure Portal UI, or you can edit the GitHub bu
 
 This repository contains pre-configured `.devcontainer` support, so you can use it to spin up either VS Code devcontainers, or a GitHub Codespace for your application. It should just work!
 
-# Credits
-
-This template is maintained by David Whitney (@davidwhitney / twitter/@david_whitney).
+[![Ably logo](https://static.ably.dev/badge-black.svg?react-static-web-app-template)](https://ably.com)
